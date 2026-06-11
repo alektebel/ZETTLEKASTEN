@@ -9,6 +9,7 @@
 _Add a link here every time you create a new MOC._
 
 - [[MOC RAG]] — Retrieval-Augmented Generation, foundational to SOTA
+- [[MOC Compliance Audit Agent]] — DB + regulation RAG agent for automated audit findings
 
 
 ---

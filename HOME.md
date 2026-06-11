@@ -8,7 +8,8 @@
 
 _Add a link here every time you create a new MOC._
 
-- 
+- [[MOC RAG]] — Retrieval-Augmented Generation, foundational to SOTA
+
 
 ---
 
